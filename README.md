@@ -30,5 +30,5 @@ To set up this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/credit-card-dashboard.git
+   git clone https://github.com/aditipawar31/Credit-Card-Transaction-and-Customer-Dashboard
    cd credit-card-dashboard
